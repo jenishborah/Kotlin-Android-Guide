@@ -7,9 +7,9 @@ Welcome to the Kotlin Android Development Tutorial/Guide! This repository contai
 
 1. [Getting Started](https://github.com/jenishborah/Android_Development_Guide.git)
 2. [Login and Signup Page](https://github.com/jenishborah/Firebase-Login_Signup-Page.git)
-3. [Bottom Navigation]
-4. [Side Bar Navigation]
-5. [Map_API_Integration]
+3. [Bottom Navigation](https://github.com/jenishborah/)
+4. [Side Bar Navigation](https://github.com/jenishborah/t)
+5. [Map_API_Integration](https://github.com/jenishborah/)
 
 
 ## Getting Started
